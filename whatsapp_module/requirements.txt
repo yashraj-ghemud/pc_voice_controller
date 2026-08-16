@@ -1,0 +1,8 @@
+pyautogui
+pydub
+gTTS
+pygetwindow
+pynput
+pyperclip
+python-dotenv
+requests
